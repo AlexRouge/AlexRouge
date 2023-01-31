@@ -45,3 +45,10 @@
 <h2>:notes: Now playing</h2>
 <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing onSpotify" ></a>
 </br>
+
+<h3>:headphones: Albums I've listened to the most this week</h3>
+
+<!-- lastfm -->
+
+
+
