@@ -1,16 +1,53 @@
-### Hi there 👋
 
-<!--
-**AlexRouge/AlexRouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&pause=1000&width=435&lines=Welcome+to+my+profile!!;Computer+Science+Student;May+the+force+be+with+you!" alt="Typing SVG" /></a>
+</div>
 
-Here are some ideas to get you started:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+- :school: EIT Digital Data Science MSc. Student @ Polimi & UPM
+- :student: I’m currently learning `Computer Science` specializing in `Data Science`
+- :nerd_face: Always `learning new things`.
+<br>
+
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://www.instagram.com/alex_rougee/">
+    <img alt="Link to my Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px">
+</a>
+<a href="https://www.linkedin.com/in/alessandro-rossi-133a03237">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" />
+</a>
+</a>
+<a href="mailto:alessandro.rossi.max@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" />
+</a>
+<a href="https://t.me/alex_rouge">
+    <img alt="link to my Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px" />
+</a>
+</br>
+
+<h2>:bulb: My competencies </h2>
+<div style="display: flex;">
+<img height="28px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img height="28px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="28px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img height="28px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img height="28px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img height="28px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img height="28px" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img height="28px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+</div>
+</br></br>
+
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing onSpotify" ></a>
+
+
+
+
+<img alt="github contribution snake animation" src="https://github.com/AlexRouge/AlexRouge/blob/output/github-contribution-grid-snake.svg">
+
