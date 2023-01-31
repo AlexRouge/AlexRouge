@@ -43,7 +43,7 @@
 </br></br>
 <br>
 <h2>:notes: Now playing</h2>
-<img src="https://spotify-read-me-iu4g-6dldwbphr-alexrouge.vercel.app/api/spotify" alt="Now playing onSpotify" ></a>
+<img height="110px" src="https://spotify-read-me-iu4g-6dldwbphr-alexrouge.vercel.app/api/spotify" alt="Now playing onSpotify" ></a>
 </br>
 
 <h3>:headphones: Albums I've listened to the most this week</h3>
