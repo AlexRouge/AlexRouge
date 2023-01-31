@@ -11,7 +11,7 @@
 - :school: EIT Digital Data Science MSc. Student @ Polimi & UPM
 - :student: I’m currently learning `Computer Science` specializing in `Data Science`
 - :nerd_face: Always `learning new things`.
-<br>
+<br><br><br>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://www.instagram.com/alex_rougee/">
