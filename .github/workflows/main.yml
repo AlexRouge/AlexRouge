@@ -25,7 +25,11 @@ jobs:
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2.5.0
       
-    # Generates the snake  
+    # Generates the snake, even with warnings
+      - run: |
+          echo "Starting the snake generation even with warnings"
+          set +e
+          
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -52,4 +56,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
