@@ -1,13 +1,8 @@
 
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&pause=1000&width=435&lines=Welcome+to+my+profile!!;Computer+Science+Student;May+the+force+be+with+you!" alt="Typing SVG" /></a>
-</div>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&pause=1000&width=435&lines=Welcome+to+my+profile!!;Computer+Science+Student;May+the+force+be+with+you!" alt="Typing SVG" /></a>
 - :school: EIT Digital Data Science MSc. Student @ Polimi & UPM
 - :student: I’m currently learning `Computer Science` specializing in `Data Science`
 - :nerd_face: Always `learning new things`.
