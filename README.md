@@ -41,9 +41,5 @@
 <img height="110px" src="https://spotify-read-me-iu4g-6dldwbphr-alexrouge.vercel.app/api/spotify" alt="Now playing onSpotify" ></a>
 </br>
 
-<h3>:headphones: Albums I've listened to the most this week</h3>
-
-<!-- lastfm -->
-
 
 
